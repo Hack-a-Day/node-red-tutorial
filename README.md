@@ -1,7 +1,7 @@
 # Hackaday Node-RED Tutorial
 
 This repo contains the code examples discussed in the Node-RED tutorial found here:
-https://hackaday.com/?p=393394&preview=true&preview_id=393394
+https://hackaday.com/?p=393394
 
 * [All flows in one file](all_flows.json)
 * [Hello World flow](hello_world.json)
